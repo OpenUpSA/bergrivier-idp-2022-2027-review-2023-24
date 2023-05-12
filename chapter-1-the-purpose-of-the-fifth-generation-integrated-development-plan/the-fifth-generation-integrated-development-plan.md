@@ -1,9 +1,5 @@
 # The Fifth Generation Integrated Development Plan
 
-<figure><img src="../.gitbook/assets/-024-024.jpg" alt=""><figcaption><p>Redelinghuis: The Town with Pictures.  Photographer unknown. Photo provided.</p></figcaption></figure>
-
-
-
 The Integrated Development Plan (IDP) is a _**process and a plan**_ that is undertaken in terms of legislation and within the parameters of National, Provincial and District planning frameworks. The integrated development planning process is a consultative process that solicits input from a wide range of stakeholders including communities, community organisations, business sectors, relevant departments from the various spheres of government and departments within the municipality.
 
 The IDP process aims to identify and prioritise community needs – and therefore municipal needs - and integrate them into a singular local level plan which indicates how municipal resources will be allocated to address these needs over the five-year cycle of the IDP.
@@ -21,3 +17,5 @@ _“Single window of co-ordination” for:_
 The following diagram indicates the lifespan of the 5th generation IDP, the way it will be reviewed and the stage in the process reflected by this document.
 
 _It should be emphasized that, due to the election date in November 2022 and the subsequent uncertainties of the exact election date prior to the announcement of the date, Council took a resolution to adopt the predecessor’s IDP with amendments. The 2023/24 review process is therefore a review of the amended IDP in 2022/23 financial year._
+
+<figure><img src="../.gitbook/assets/pic1.png" alt=""><figcaption><p>FIGURE 1: LIFE SPAN OF THE IDP</p></figcaption></figure>
