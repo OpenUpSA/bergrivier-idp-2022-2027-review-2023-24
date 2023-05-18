@@ -40,4 +40,36 @@ The following table indicates the status of the Municipality’s by-laws.
 
 By-Laws can be accessed at: [https://bergrivier.openbylaws.org.za](https://bergrivier.openbylaws.org.za)
 
-<table data-card-size="large" data-view="cards"><thead><tr><th>ADOPTED</th></tr></thead><tbody><tr><td><ol><li>Advertising and signage (2013) </li><li>Air Quality (2020)</li><li>Cemeteries and crematoria (2009)</li><li>Commonage (2009)</li><li>Control of Undertakings that Sell Liquor to the Public (2018)</li><li>Control of Vessels and Boating Activities on the Berg River Estuary (2020)</li><li>Credit control, tariffs and debt collection (2009)</li><li>Dilapidated Buildings and Unsightly and Objectionable Structures (Piketberg Municipal Council)(1998)</li><li>Electricity supply (2009)</li><li>Fences and walls (2009)</li><li>Fire Safety (2016)</li><li>Impoundment of animals (2009)</li><li>Informal Trading (2009)</li><li>Integrated Waste Management (2022)</li><li>Integrated Zoning Scheme (2016)</li><li>Keeping of Bees (Municipal Council of Piketberg)(1998)</li><li>Levying of an Availability Charge for Sewerage (Municipal Council of Velddrif)(1994) </li><li>Management and Use of the Berg River Estuary (2019)</li><li>Municipal Land Use Planning (2020)</li><li>Property Rates (2012)</li><li>Public Amenities (2009)</li><li> Public Buses and Taxis (2009)</li><li>Public Nuisances and the Keeping of Animals (2022)</li><li>Roads and Streets (2009)</li><li> Rules of Order for the Conduct of Meetings of Council (2018)</li><li>Shop Trolleys (Municipal Council of Piketberg)(1998)</li><li>Sporting Facilities (2009)</li><li>Stormwater Management (2009)</li><li>Swimming Bath (Municipal Council of Piketberg)(1998)</li><li>Vessels, Trailers, Boats, or any Towing or Sailing Equipment on Vacant Land (Piketberg Municipal Council)(1998)</li><li>Water, Supply, Sanitation Services and Industrial Effluent (2009)</li></ol></td></tr></tbody></table>
+### Adopted
+
+1. Advertising and signage (2013)&#x20;
+2. Air Quality (2020)
+3. Cemeteries and crematoria (2009)
+4. Commonage (2009)
+5. Control of Undertakings that Sell Liquor to the Public (2018)
+6. Control of Vessels and Boating Activities on the Berg River Estuary (2020)
+7. Credit control, tariffs and debt collection (2009)
+8. Dilapidated Buildings and Unsightly and Objectionable Structures (Piketberg Municipal Council)(1998)
+9. Electricity supply (2009)
+10. Fences and walls (2009)
+11. Fire Safety (2016)
+12. Impoundment of animals (2009)
+13. Informal Trading (2009)
+14. Integrated Waste Management (2022)
+15. Integrated Zoning Scheme (2016)
+16. Keeping of Bees (Municipal Council of Piketberg)(1998)
+17. Levying of an Availability Charge for Sewerage (Municipal Council of Velddrif)(1994)&#x20;
+18. Management and Use of the Berg River Estuary (2019)
+19. Municipal Land Use Planning (2020)
+20. Property Rates (2012)
+21. Public Amenities (2009)
+22. &#x20;Public Buses and Taxis (2009)
+23. Public Nuisances and the Keeping of Animals (2022)
+24. Roads and Streets (2009)
+25. &#x20;Rules of Order for the Conduct of Meetings of Council (2018)
+26. Shop Trolleys (Municipal Council of Piketberg)(1998)
+27. Sporting Facilities (2009)
+28. Stormwater Management (2009)
+29. Swimming Bath (Municipal Council of Piketberg)(1998)
+30. Vessels, Trailers, Boats, or any Towing or Sailing Equipment on Vacant Land (Piketberg Municipal Council)(1998)
+31. Water, Supply, Sanitation Services and Industrial Effluent (2009)
